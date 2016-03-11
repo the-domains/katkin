@@ -1,0 +1,28 @@
+name: KatKin
+favicon: null
+layout_spectrum: 0.759435998275876
+typography_spectrum: 0.759376916103065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6301293871365488
+  lightness: 0.3978793425485492
+  saturation: 0.8221893657464534
+  rhythmicContrast: 0.18309461185708642
+purpose: []
